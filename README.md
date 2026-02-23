@@ -59,7 +59,8 @@ Me interesa seguir creciendo como desarrollador backend/full stack y aplicar bue
 
 📍 Medellín, Colombia  
 📧 gonzalezjuanmanuel645@gmail.com  
-🔗 LinkedIn: (agrega aquí tu link)
+🔗 LinkedIn: www.linkedin.com/in/manuel-gonzález-dev-3848702b2
+
 
 ---
 
