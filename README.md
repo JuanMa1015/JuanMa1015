@@ -81,3 +81,8 @@ Aplicación móvil de salud que analiza el audio del micrófono del smartphone y
 ---
 
 ## 📍 Medellín, Colombia · Disponible para trabajo remoto y reubicación
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuanMa1015&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMa1015&layout=compact&theme=dark&hide_border=true)
+
