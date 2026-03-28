@@ -84,4 +84,4 @@ Aplicación móvil de salud que analiza el audio del micrófono del smartphone y
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanMa1015&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://languagestats.com/api?username=JuanMa1015)](https://github.com/JuanMa1015)
+![Top Langs](https://api.githubtrends.io/user/svg/JuanMa1015/langs?time_range=one_year&theme=dark)
